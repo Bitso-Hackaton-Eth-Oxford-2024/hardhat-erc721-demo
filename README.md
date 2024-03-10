@@ -24,4 +24,4 @@ npx hardhat run --network <network-name> scripts/deploy.ts
 
 # Verified contract
 
-https://sepolia-optimism.etherscan.io/address/0x57c3EFffF6cfF819Ba71C69EEEDb022d7dE08066#code
+https://sepolia-optimism.etherscan.io/address/0xeB2DBCff7265Fe8034d2eE99AAa2212401571a74#code
