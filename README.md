@@ -21,3 +21,7 @@ You can target any network from your Hardhat config using:
 ```
 npx hardhat run --network <network-name> scripts/deploy.ts
 ```
+
+# Verified contract
+
+https://sepolia-optimism.etherscan.io/address/0x57c3EFffF6cfF819Ba71C69EEEDb022d7dE08066#code
